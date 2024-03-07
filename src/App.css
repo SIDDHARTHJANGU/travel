@@ -1,4 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.ellips {
+  background: #5a4dc5;
+  filter: blur(179.9499969482422px);
+}
+.ellips1 {
+  opacity: 50%;
+  background: #ff5722;
+  filter: blur(179.9499969482422px);
+}
